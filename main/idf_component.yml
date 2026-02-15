@@ -1,6 +1,0 @@
-dependencies:
-  lvgl/lvgl:
-    version: "9.2.2"
-
-  espressif/esp-sr:
-    version: "^2.1.3"
